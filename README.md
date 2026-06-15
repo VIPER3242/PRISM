@@ -1,4 +1,4 @@
-# PRISM AHENTS
+# PRISM AGENTS
 ⚠️ USAGE RESTRICTION
 
 - This project (PRISM AGENTS) is public ONLY for collaboration purposes.
